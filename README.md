@@ -2,14 +2,14 @@
 Repository containing machine learning projects from a machine learning course that I took.
 
 # Project 1 
-Classifying Faces
+Classifying faces.
 
 # Project 2
-Classifying Digits and More Faces
+Classifying digits and more faces.
 
 # Project 3 
-Classifying Fake News
+Classifying fake news. Our model finished 8th out of a roughly 200 teams. 
 
 # Project 4
-Reinforcement learning with tic-tac-toe
+Reinforcement learning with tic-tac-toe.
 
