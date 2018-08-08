@@ -8,7 +8,7 @@ Classifying faces.
 Classifying digits and more faces.
 
 # Project 3 
-Classifying fake news. Our model finished 3rd out of a roughly 200 groups. 
+Classifying fake news. Our model finished 3rd out of a roughly 50 groups. 
 
 # Project 4
 Reinforcement learning with tic-tac-toe.
